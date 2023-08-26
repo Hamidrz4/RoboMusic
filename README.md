@@ -2,6 +2,8 @@
 
 RoboSpot is a simple Discord bot script that allows you to interact with your server members, change its activity, play music, and more.
 
+![rm](https://github.com/Hamidrz4/RoboMusic/blob/main/DreamShaper_v7_a_bot_while_singing_music_as_DJ_0.jpg)
+
 ## Introduction
 
 Welcome to RoboMusic! This Discord bot script simplifies various tasks in your server, from managing activities to playing music.
